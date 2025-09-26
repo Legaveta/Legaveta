@@ -1,6 +1,7 @@
-- 👋 Olá, Me chamo Erick Candido
-- 👀 Tenho interesse em: BackEnd/Java
-- 🌱 Atualmente estudando conceitos avançados do JAVA
-- 💞️ Prentendo trabalhar como desenvolvedor BackEnd na linguagem JAVA
-- 📫 Meu email: erickoliveira1144@hotmail.com
+# 👋 Olá, eu sou o Erick Candido
 
+- 👀 Tenho interesse em: **BackEnd | Java | Node.js**
+- 💻 Atuo como **Desenvolvedor BackEnd**, com experiência em **JavaScript, TypeScript e Next.js**
+- 🚀 Atualmente trabalhando com **desenvolvimento BackEnd em TypeScript**
+- 💞️ Busco evoluir constantemente como **Dev BackEnd**
+- 📫 Contato: **erickoliveira1144@hotmail.com**
