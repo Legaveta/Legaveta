@@ -48,7 +48,7 @@ Atualmente trabalho com desenvolvimento BackEnd em **TypeScript**, buscando evol
 
 ## Experiência prática
 
-Pelos projetos locais, venho trabalhando com:
+Venho trabalhando com:
 
 - Sistemas web com **Next.js, React, TypeScript e JavaScript**
 - APIs e serviços com **Node.js, Express e NestJS**
