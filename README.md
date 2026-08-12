@@ -60,14 +60,6 @@ Venho trabalhando com:
 - Deploy e ambiente com **Docker, Docker Compose, Kubernetes e PM2**
 - Boas práticas com **lint, testes, organização de módulos e versionamento Git**
 
-## O que estou estudando/evoluindo
-
-- BackEnd com **Java e Node.js**
-- Arquitetura de APIs e microsserviços
-- Testes automatizados e qualidade de código
-- Integrações com IA e automações inteligentes
-- Performance, observabilidade e escalabilidade de aplicações
-
 ## Contato
 
 📫 **Email:** [erickoliveira1144@hotmail.com](mailto:erickoliveira1144@hotmail.com)
