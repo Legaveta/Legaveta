@@ -1,4 +1,4 @@
-# Olá, eu sou o Erick Candido
+# HEY, sou o Erick 
 
 Desenvolvedor BackEnd com foco em **TypeScript, Node.js e integrações entre sistemas**. Tenho experiência também com **JavaScript, Next.js e React**, atuando em aplicações web, APIs, serviços assíncronos, dashboards e soluções de atendimento/mensageria.
 
@@ -44,21 +44,6 @@ Atualmente trabalho com desenvolvimento BackEnd em **TypeScript**, buscando evol
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-## Experiência prática
-
-Venho trabalhando com:
-
-- Sistemas web com **Next.js, React, TypeScript e JavaScript**
-- APIs e serviços com **Node.js, Express e NestJS**
-- Integrações com **WhatsApp, WABA, Facebook Lead Ads, telefonia, CRM e serviços externos**
-- Processamento assíncrono com **Redis, Bull/BullMQ, workers e tarefas agendadas**
-- Persistência com **MySQL, PostgreSQL, MongoDB, Knex, Prisma e Mongoose**
-- Autenticação e segurança com **JWT, bcrypt, cookies, middlewares e permissões**
-- Dashboards, relatórios, filas de atendimento, leads, campanhas e automações
-- Deploy e ambiente com **Docker, Docker Compose, Kubernetes e PM2**
-- Boas práticas com **lint, testes, organização de módulos e versionamento Git**
 
 ## Contato
 
