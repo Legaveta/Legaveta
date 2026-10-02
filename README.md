@@ -1,4 +1,4 @@
-# HEY, sou o Erick 
+# HEY
 
 Desenvolvedor BackEnd com foco em **TypeScript, Node.js e integrações entre sistemas**. Tenho experiência também com **JavaScript, Next.js e React**, atuando em aplicações web, APIs, serviços assíncronos, dashboards e soluções de atendimento/mensageria.
 
